@@ -3,3 +3,4 @@ build/*
 *.vo
 *.#*
 .DS_Store
+report/*
